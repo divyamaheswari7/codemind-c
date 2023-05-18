@@ -8,12 +8,12 @@ int main()
         if(n%i==0)
         c++;
     }
-        if(c==2)
-        {
-            printf("prime");
-        }
-        else
-        {
-            printf("not a prime");
-        }
+    if(c==2)
+    {
+        printf("prime");
+    }
+    else
+    {
+        printf("not a prime");
+    }
 }
