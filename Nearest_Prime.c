@@ -13,11 +13,13 @@ int main()
         b=nex_prime(n);
         if((n-a)<=(b-n))
         {
-            printf("%d\n",a);
+            printf("%d
+",a);
         }
         else
         {
-            printf("%d\n",b);
+            printf("%d
+",b);
         }
     }
 }
