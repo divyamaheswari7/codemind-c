@@ -2,8 +2,7 @@
 int main(void)
 {
     char str[100];
-    scanf("%[^
-]s",str);
+    scanf("%[^]s",str);
     printf("%s",str);
     return 0;
 }
